@@ -75,7 +75,7 @@ del-gh-pages:
 
 build : dist/index.html
 	$(call cp, $(BUILD_CSS))
-	pandoc --section-divs -s ./content/resume.md -H ./templates/header.html -c style.css -o index.html
+	pandoc --section-divs -s ./content/resume.md -H ./templates/header.html -c style.css -o dist/index.html
 
 deploy: build
 	git add dist
