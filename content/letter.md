@@ -1,12 +1,10 @@
 ---
 pagetitle: 'Cover Letter - Sua Jo'
 author: 'Sua Jo'
-date: 2018-11-09
+date: 2018-11-10
 ---
 
-# Your Name
-
-Sua Jo
+# Sua Jo
 
 ## Contact {.heading .hide}
 

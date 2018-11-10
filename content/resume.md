@@ -1,12 +1,10 @@
 ---
 pagetitle: "Resume - Sua Jo"
 author: "Sua Jo"
-date: 2018-11-09
+date: 2018-11-10
 ---
 
-# Your Name
-
-Sua Jo
+# Sua Jo
 
 ## Contact {.heading .hide}
 
@@ -40,20 +38,21 @@ lehifoa2310@gmail.com\
 
 ## Triple Skills Section {.hide}
 
-### Your Tool {.col .left}
+### Tool {.col .left}
 
 GitHub\
 SourceTree\
 Eclipse\
 
-### IT Language {.col .center}
+### Computing Language {.col .center}
 
 Java\
 JavaScript\
 SQL\
 
-### Language {.col .right}
+### Other Language {.col .right}
 
 English\
 Japanese\
 Korean\
+
