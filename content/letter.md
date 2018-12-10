@@ -10,7 +10,7 @@ date: 2018-11-10
 
 Seoul, South Korea\
 82+ 010-8992-8176\
-lehifoa2310@gmail.com
+suajodev@gmail.com
 
 ## {.divider}
 
